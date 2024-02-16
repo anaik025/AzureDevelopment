@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutputBinding", "OutputBind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusPublishSubscribe", "ServiceBusPublishSubscribe\ServiceBusPublishSubscribe.csproj", "{E3F73139-7A43-46F8-87A8-067242F47679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureKeyVaultAPI", "AzureKeyVaultAPI\AzureKeyVaultAPI.csproj", "{70EEB167-5943-45AA-B23A-F19045121ACA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E3F73139-7A43-46F8-87A8-067242F47679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3F73139-7A43-46F8-87A8-067242F47679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3F73139-7A43-46F8-87A8-067242F47679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EEB167-5943-45AA-B23A-F19045121ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EEB167-5943-45AA-B23A-F19045121ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EEB167-5943-45AA-B23A-F19045121ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EEB167-5943-45AA-B23A-F19045121ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
